@@ -10,3 +10,4 @@
 <img alt="Express"src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img alt="Mysql"src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </p>
+I'm a beginner. I want to be good for programming
