@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome!</h1>
 
 
-<p>Welcome to my page! </br> I'm JeongMin, student from <b>[SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY](https://www.seoultech.ac.kr/index.jsp)</b>, currently living in <b>Seoul, Korea</b>. </p>
+<p>Welcome to my page! </br> I'm JeongMin, student from <b>SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY(https://www.seoultech.ac.kr/index.jsp)</b>, currently living in <b>Seoul, Korea</b>. </p>
 
 <h3>Things I code with</h3>
 <p>
