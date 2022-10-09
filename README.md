@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> I'm JeongMin, student from <b>SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY(https://www.seoultech.ac.kr/index.jsp)</b>, currently living in <b>Seoul, Korea</b>. </br>
 I'm a beginner. I want to be good for programming</p>
 
-<h3>Things I code with</h3>
+<h3>Studying now</h3>
 <p>
 <img alt="NodeJs"src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
