@@ -1,10 +1,11 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Aloha!</h1>
 
 
-<p>Welcome to my page! </br> I'm JeongMin, student from <b>SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY(https://www.seoultech.ac.kr/index.jsp)</b>, currently living in <b>Seoul, Korea</b>. </br>
-I'm a beginner. I want to be good for programming</p>
+- Majoring Computer Engineering
+- Student of Seoultech
+- Daily Commit
 
-<h3>Studying now</h3>
+<h3>Studying</h3>
 <p>
 <img alt="NodeJs"src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -12,5 +13,7 @@ I'm a beginner. I want to be good for programming</p>
 <img alt="Mysql"src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img alt="Python"src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 </p>
+
+
 
 
