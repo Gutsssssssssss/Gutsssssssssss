@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Aloha!</h1>
 
 
-- Majoring Computer Engineering
+- Majoring Computer Science and Engineering
 - Student of Seoultech
 - Daily Commit
 
