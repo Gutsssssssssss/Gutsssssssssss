@@ -4,11 +4,15 @@
 - Majoring Computer Science and Engineering
 - Student of Seoultech
 
-<h3>Studying</h3>
+<h3>Language</h3>
 <p>
-
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=">
 </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junsk50)](https://solved.ac/junsk50)
+<p align="center">
+    <a href="https://solved.ac/junsk50/" align="center">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junsk50">
+    </a>
+</p>
 
 
 
