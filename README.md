@@ -1,10 +1,5 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>IMJM</h1>
-<h3 align="center">History</h3>
-<p align="center">
-    서울과학기술대학교 컴퓨터공학과(2018.03~2024.02)<br>
-    삼성 청년 SW 아카데미(2024.01~ing) 
-</p>
-<h3 align="center">Tech</h3>
+<h1 align="center">안녕?</h1>
+
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -19,7 +14,6 @@
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
-<h3 align="center">BOJ</h3>
 <p align="center">
     <a href="https://solved.ac/junsk50/" align="center">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junsk50">
