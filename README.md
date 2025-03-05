@@ -10,7 +10,7 @@
 </p>
 
 <p>
-    <h3>⚡I've used</h3>
+    <h3>🦾I've used</h3>
     <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
