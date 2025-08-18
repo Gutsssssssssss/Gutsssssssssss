@@ -1,8 +1,7 @@
-I graduated in 2024 with a B.S. in Computer Science from **SeoulTech**.  
-In 2024, I completed a year‑long intensive program at the **Samsung Software Academy for Youth (SSAFY)**.
+I graduated in 2024 with a B.S. in Computer Science from **SeoulTech**, and i completed a year‑long intensive program at the **Samsung Software Academy for Youth**.
 
-I build backend applications using **Java(Spring)** and **Go**, with experience in developing systems over **HTTP** and **WebSocket**.</br>
-Recently, I’ve been interested in writing beautiful code and exploring how to stay fully immersed in programming.
+I build applications using **Java** and **Go**, and have a solid understanding of **HTTP** and **WebSocket**.</br>
+Recently, I’ve been focusing on writing clean code and exploring how to stay fully immersed in programming.
 
 
 I’m currently seeking opportunities as a **software engineer**.
